@@ -4,10 +4,10 @@
 ## Material del curso
 # Bioinformática aplicada a recursos genéticos 2019
 
-## <p align="right"> Impartido por:</p>
-##  <p align="right"> Dr. Miguel Angel del Río Portilla 
-##  <p align="right"> Dra. Irene de los Angeles Barriga Sosa 
-##  <p align="right"> Dra. Erika Magallón Gayón</p>
+### <p align="right"> Impartido por:</p>
+###  <p align="right"> Dr. Miguel Angel del Río Portilla 
+###  <p align="right"> Dra. Irene de los Angeles Barriga Sosa 
+###  <p align="right"> Dra. Erika Magallón Gayón</p>
 
 nombre corto
-# bioinformatica2019
+## bioinformatica2019
