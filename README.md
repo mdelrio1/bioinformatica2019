@@ -9,5 +9,5 @@
 ##  <p align="right"> Dra. Irene de los Angeles Barriga Sosa 
 ##  <p align="right"> Dra. Erika Magallón Gayón</p>
 
-
+nombre corto
 # bioinformatica2019
